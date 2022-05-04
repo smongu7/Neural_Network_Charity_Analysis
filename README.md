@@ -1,9 +1,16 @@
 # Neural_Network_Charity_Analysis
 ## Overview of the analysis: 
-Explain the purpose of this analysis.
-
+The purpose of this analysis was to practice using neural networks and deep learning models. During the process, we learned how to:
+- Compare the differences between traditional machine learning classification, regression models and the neural network models.
+- Describe the perceptron model and its components.
+- Implement neural network models using TensorFlow.
+- Explain how different neural network structures change algorithm performance.
+- Preprocess and construct datasets for neural network models.
+- Compare the differences between neural network models and deep neural networks.
+- Implement deep neural network models using TensorFlow.
+- Save trained TensorFlow models for later use.
 ## Results: 
-Using bulleted lists and images to support your answers, address the following questions.
+Using bulleted lists and images to support your answers
 
 - Data Preprocessing
   - "IS_SUCCESSFUL", which indicates if a charity used their donations effeectively, was the target for the model.
