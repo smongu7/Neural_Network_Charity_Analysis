@@ -1,5 +1,5 @@
 # Neural_Network_Charity_Analysis
-## Overview of the analysis: 
+## Overview: 
 The purpose of this analysis was to practice using neural networks and deep learning models. During the process, we learned how to:
 - Compare the differences between traditional machine learning classification, regression models and the neural network models.
 - Describe the perceptron model and its components.
