@@ -15,7 +15,6 @@ The purpose of this analysis was to practice using neural networks and deep lear
   - "APPLICATION_TYPE" and "CLASSIFICATION" were the features for the model.
   - "EIN" and "NAME", which were identificatoins models, were not targets nor features. Therefore, they were removed from the input data.
 - Compiling, Training, and Evaluating the Model
-  - How many neurons, layers, and activation functions did you select for your neural network model, and why?
   - There were 2 hidden layers.
   - The first hidden layer contained 80 neurons.
   - The second hidden layer contained 25 neurons.
