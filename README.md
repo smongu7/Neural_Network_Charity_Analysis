@@ -40,4 +40,4 @@ The purpose of this analysis was to practice using neural networks and deep lear
  None of the models achieved target performance.
 
 ## Summary: 
-Every model needs significant work. We need an alternative model. We could look at other variables, such as ASK_AMT. It may be possible to bin ranges in order to decrease unique values, and may improve the accuracy of the models.
+Every model needs significant work. We need an alternative model. We could look at other variables, such as ASK_AMT. It may be possible to bin ranges in order to decrease unique values, which may improve the accuracy of the models.
